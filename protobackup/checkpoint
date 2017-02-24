@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/luochong/PycharmProjects/LoginSimulation/proto/model.ckpt-76"
+all_model_checkpoint_paths: "/home/luochong/PycharmProjects/LoginSimulation/proto/model.ckpt-76"
