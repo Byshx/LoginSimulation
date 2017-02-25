@@ -34,3 +34,4 @@ sql = 'INSERT INTO Student_2009 VALUES(%s,%s,%s,%s)'
 
 ##→请使用校园网以外的IP进行搜索。╮(╯▽╰)╭
 ##→如有问题，请发issue，不定期维护
+##→右上角点Star
