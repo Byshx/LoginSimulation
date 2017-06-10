@@ -113,5 +113,5 @@ sql = 'INSERT INTO Student_2009 VALUES(%s,%s,%s,%s)'
 <br>
 <br>
 <br>
-![Image](https://github.com/Byshx/ImageCache/blob/master/Image/emoji_1.jpg)  
+![image](https://github.com/Byshx/ImageCache/blob/master/Image/emoji_1.jpg) <br> 
 
