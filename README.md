@@ -47,7 +47,7 @@ sql = 'INSERT INTO Student_2009 VALUES(%s,%s,%s,%s)'
 <br>
 <br>
 <br>
-<br>
+
 ### 任何因使用此脚本闹出的是非，我表示
 <br>
 <br>
@@ -112,6 +112,6 @@ sql = 'INSERT INTO Student_2009 VALUES(%s,%s,%s,%s)'
 <br>
 <br>
 <br>
-<br>
+
 ![image](https://raw.githubusercontent.com/Byshx/ImageCache/master/Image/emoji_1.jpg)
 
