@@ -37,7 +37,3 @@ sql = 'INSERT INTO Student_2009 VALUES(%s,%s,%s,%s)'
 * →右上角点`Star`<br>
 
 ### 仅用于交流学习，谢谢
-
-<br>
-(逃
-
